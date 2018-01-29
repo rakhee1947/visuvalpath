@@ -1,0 +1,5 @@
+git status 
+on branch devlopment
+changes not staged for commit:
+(use "git add <file>.."to update what will be commited)
+ (use"git checkout --<file>.." )
